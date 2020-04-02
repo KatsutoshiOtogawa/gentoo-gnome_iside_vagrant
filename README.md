@@ -1,4 +1,4 @@
-# gentoo-unity_inside_vagrant
+# gentoo-gnome_inside_vagrant
 ## 狙い、目的
 gentooは敷居が高い、仕事で使わないからいい、面倒臭いという人が多いと思われます。
 これは非常にもったいないことだと思っています。
@@ -37,7 +37,7 @@ cpuもcorei5はないとビルド時間がかなりかかると思われます�
 ### レポジトリをローカルにコピー
 
 `
-$ git clone https://github.com/KatsutoshiOtogawa/gentoo-unity_inside_vagrant.git
+$ git clone https://github.com/KatsutoshiOtogawa/gentoo-gnome_inside_vagrant.git
 `
 
 ### vagrant環境の構築
